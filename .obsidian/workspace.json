@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do/Prophecies.md",
+                "file": "To Do/Fated Artefact Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prophecies"
+              "title": "Fated Artefact Table"
             }
           }
         ]
@@ -56,7 +56,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -169,10 +169,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "2823bfa4e4d89b05",
+  "active": "ae101d3d24ac8401",
   "lastOpenFiles": [
-    "To Do",
-    "To Do/Prophecies.md",
-    "Library"
+    "To Do/Exiled Vault Updates/Prophecies.md",
+    "To Do/Fated Artefact Table.md",
+    "To Do/Exiled Vault Updates/Fragments.md",
+    "To Do/Exiled Vault Updates/Keystones.md",
+    "To Do/Exiled Vault Updates/Maps.md",
+    "To Do/Exiled Vault Updates/Strongboxes.md",
+    "To Do/Exiled Vault.md",
+    "To Do/Exiled Vault Updates",
+    "To Do/Exiled Vault Updates/Conversations.md",
+    "To Do/Infrastructure.md",
+    "Resources/Markdown Structure Guide.md",
+    "Library/Societies",
+    "Library/Locations",
+    "Library/Events",
+    "Library/Conversations",
+    "Library/Bosses",
+    "Resources/Templates/Atziri.md",
+    "Exiled-Vault/Exiled Vault Dialogue/A/Alva/Alva Dialogue.md",
+    "Library/Characters/A",
+    "Exiled-Vault/Exiled Vault Heist Targets/M/Mirror of Teklatipitzi.md",
+    "Library/Characters",
+    "Resources/Templates/BasicTemplate.md",
+    "README.md",
+    "Exiled-Vault/Exiled Vault Lore/Flavour Text/Mercenaries/Mercenaries.md",
+    "Resources/Templates",
+    "Resources",
+    "Exiled-Vault/Exiled Vault Divination Cards/E/Emperor of Purity.md",
+    "Exiled-Vault/Exiled Vault Divination Cards/E/Earth Drinker.md",
+    "Exiled-Vault/Exiled Vault Dialogue/I/It that Fled/It that Fled Dialogue.md",
+    "Exiled-Vault/Exiled Vault Divination Cards/L/Lingering Remnants.md",
+    "Exiled-Vault/Exiled Vault Divination Cards/T/The Doppelganger.md",
+    "Exiled-Vault/Exiled Vault Dialogue/E/Envoy/Envoy Dialogue.md"
   ]
 }
