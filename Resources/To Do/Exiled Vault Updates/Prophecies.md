@@ -8,6 +8,9 @@ Let's import the prophecies into the Exiled-Vault since they were official conte
 Are we missing anything?
 Prophecy "type", reward, etc?
 
+## Content
+List of all prophecies:
+
 ---
 ## Tags
 #ToDo 

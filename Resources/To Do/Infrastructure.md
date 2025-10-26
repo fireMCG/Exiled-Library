@@ -2,6 +2,12 @@
 Let's establish the structure of the project and the content and different data types that will be included in it.
 
 ---
+## Exiled Vault Content Separation
+Should PoE1 and PoE2 content be kept separate, even if a lot of the content might be duplicated in the process?
+This might be a good solution to allow easier tracking of version changes and avoid any possible issue with overwriting data from one game with data from the other.
+It might also be beneficial to be able to discern quickly and easily which game the content is from.
+
+---
 ## Folder Structure
 Should all high level categories organize their content within alphabetical sub-folders?
 Should empty alphabetical sub-folders be excluded?
