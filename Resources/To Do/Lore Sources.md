@@ -1,8 +1,4 @@
 # Lore Sources
-1. Reliquaries
-	1. Keys
-	2. Chests
-2. 
 ### Unreleased
 Unused instance local item: [https://poe2db.tw/us/Shovel](https://poe2db.tw/us/Shovel)
 

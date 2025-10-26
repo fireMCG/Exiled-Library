@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "f91c095313d8c67a",
+        "id": "b23b375dab15587e",
         "type": "tabs",
         "children": [
           {
-            "id": "bec54a7c0bfa7084",
+            "id": "530e6e820b637fa5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Library/Misc/Fated Artefact Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Fated Artefact Table"
+            }
+          }
+        ]
+      },
+      {
+        "id": "def6f1adc1b05368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a931ec2ea93026",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/A Dishonourable Death.md",
+                "file": "Exiled-Vault/Exiled Vault Artefacts/PoE1/T/Timeclasp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Dishonourable Death"
+              "title": "Timeclasp"
             }
           }
         ]
@@ -169,34 +191,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "bec54a7c0bfa7084",
+  "active": "86a931ec2ea93026",
   "lastOpenFiles": [
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/A Forest of False Idols.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/A Dishonourable Death.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/A Rift in Time.md",
+    "Library/Misc/Fated Artefact Table.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/T/Timetwist.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Dusktoe.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Duskblight.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Doomfletch.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Doomfletch's Prism.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/T/The Iron Fortress.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/G/Geofri's Baptism.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/G/Geofri's Devotion.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Briskwrap.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/W/Wildwrap.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/R/Realmshaper.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/R/Realm Ender.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/G/Geofri's Legacy.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/Q/Quecholli.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/P/Panquetzaliztli.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/K/Karui Ward.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/A/Atziri's Mirror.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/A/Atziri's Reflection.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/S/Silverbranch.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/H/Hrimnor's Hymn.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/F/Fencoil.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/M/Mirebough.md",
+    "Exiled-Vault/Exiled Vault Artefacts/PoE1/T/Timeclasp.md",
     "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/A Vision of Ice and Fire.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Agony at Dusk.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Ancient Doom.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Battle Hardened.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Black Devotion.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Blind Faith.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Blinding Light.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Burning Dread.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Cold Blooded Fury.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Cold Greed.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Crimson Hues.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Dance of Steel.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Dark Instincts.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Darktongue's Shriek.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Dying Cry.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/End of the Light.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Faith Exhumed.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Fire and Brimstone.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Fire and Ice.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/From the Void.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Greed's Folly.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Heavy Blows.md",
-    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/Last of the Wildmen.md",
+    "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts/A Rift in Time.md",
+    "Library/Misc",
     "Exiled-Vault/Exiled Vault Artefacts/PoE1/_Images/Hinekora's Sight.png",
     "Exiled-Vault/Exiled Vault Prophecies/Fated Artefacts",
     "Exiled-Vault/Exiled Vault Prophecies/Prophecy Chains",
@@ -215,7 +238,6 @@
     "Exiled-Vault/Exiled Vault Strongboxes/PoE2/_Images",
     "Exiled-Vault/Exiled Vault Strongboxes/PoE1/_Images",
     "Exiled-Vault/Exiled Vault Strongboxes/PoE2",
-    "Exiled-Vault/Exiled Vault Strongboxes/PoE1",
-    "Exiled-Vault/Exiled Vault Quest Items/PoE1/O"
+    "Exiled-Vault/Exiled Vault Strongboxes/PoE1"
   ]
 }
