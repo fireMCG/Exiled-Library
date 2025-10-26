@@ -9,9 +9,6 @@ po1 reliquary vaults (not quite "strongboxes") - apart from Voidborn Reliquary K
 Two pre-fated poe1 unique items that have had their names and flavour text erased through stupid treatment of data. Their text is no longer found in the game data. Give them a special tag, like #manually_imported. Bloodboil: Rage is a big part of courage. Iron Heart: "The Council have a great many secrets. Some are better kept that way, Cospri." - Mauritius, the Iron Heart
 
 ---
-Two pre-fated poe1 unique items that have had their names and flavour text erased through stupid treatment of data. Their text is no longer found in the game data. Give them a special tag, like #manually_imported. Bloodboil: Rage is a big part of courage. Iron Heart: "The Council have a great many secrets. Some are better kept that way, Cospri." - Mauritius, the Iron Heart
-
----
 Unused poe2 quest item 2D art. Tag them with #Unreleased. [https://poe2db.tw/us/Quest#QuestItem](https://poe2db.tw/us/Quest#QuestItem) Burning Heart Maggot Husk Empty Decanter Djinnus - (the full version has been has been used in interlude 2) [DNT-UNUSED] Precursor Core [DNT-UNUSED] Precursor Staff [DNT-UNUSED] Precursor Blade Half-Digested Sulphite Sulphite Potion Severed Talon Ever-healing Liver The Siren's Vocal Cords The Siren's Head
 
 ---
