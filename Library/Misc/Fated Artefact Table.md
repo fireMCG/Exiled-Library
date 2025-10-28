@@ -60,6 +60,7 @@
 | ![[Trapped in the Tower#Trapped in the Tower]]                   | ![[Fencoil#Fencoil]]                                                                                         | ![[Mirebough#Mirebough]]                       |
 | ![[Winter's Mournful Melodies#Winter's Mournful Melodies]]       | ![[Exiled-Vault/Exiled Vault Artefacts/PoE1/H/Hrimnor's Hymn#Hrimnor's Hymn\|Hrimnor's Hymn]]                | ![[Hrimnor's Dirge#Hrimnor's Dirge]]           |
 
+#
 ---
 ## Tags
 #Artefact 
