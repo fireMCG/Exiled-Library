@@ -1,8 +1,11 @@
 # Next Steps
 1. Import fragments
+	1. ==PoE1==
+		1. Double check for missing fragments like Pale Court Keys
+	2. ==PoE2==
 2. ==Import reliquaries==
 3. ==Import base poe1 talismans (amulets)==
-4. Create a key/reliquary chest flavour text table
+4. ==Create a key/reliquary chest flavour text table==
 5. Import ancestor warrior equipment https://poedb.tw/us/Ancestor_league#Equipment
 	1. These are all unique non-items; most of them have an associated tribe
 6. Import war for the atlas memory fragments https://www.poewiki.net/wiki/Memory_Fragment
