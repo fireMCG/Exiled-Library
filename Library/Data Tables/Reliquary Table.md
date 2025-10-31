@@ -18,5 +18,5 @@
 ---
 ## Tags
 #Reliquary 
-#Table
+#DataTable
 #WiP 

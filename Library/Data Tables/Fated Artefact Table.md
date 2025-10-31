@@ -65,4 +65,5 @@
 ## Tags
 #Artefact 
 #Prophecy 
+#DataTable
 #WiP 
