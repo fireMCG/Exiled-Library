@@ -77,6 +77,7 @@
 |                                         | 2         | [[Breach Containment Chamber]] | Eyes peer through a seam from beyond the dark dream.  | Whatever Zilquapa found in that room, you're letting him keep it? Bit of a risk, but no risk, no reward.                                                                                                                                                               |                                                                                                                                                                                                                                                          |
 |                                         | 3         | [[House of the Others]]        | The Dreamer's reach extends through the breach.       | Great, Zilquapa's madness has given eldritch... {things}... ingress to the temple. Was that your intention, or should I applaud you for your foolhardiness?<br><br>From crimson blood to purple flame, this cult must be put to rest.                                  | Atzoatl played host to the Cult of the Purple Flame. I do not know what powers they worshipped, but my educated guesses leave me shaken. - Icius Perandus, Antiquities Collection, Embalmed Claw                                                         |
 
+#
 ---
 ## Tags
 #DataTable 

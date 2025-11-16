@@ -1,4 +1,5 @@
 # Heist Target Table
+## Clients
 | Client                | Target                                                         | Value |
 | --------------------- | -------------------------------------------------------------- | ----- |
 | Administrator Qotra   | ![[Alchemical Chalice#Alchemical Chalice]]                     | 1     |
@@ -42,7 +43,17 @@
 | Tsvet Matvei          | ![[Admiral Proclar's Pipe#Admiral Proclar's Pipe]]             | 1     |
 |                       | ![[Box of Tripyxis#Box of Tripyxis]]                           | 1     |
 |                       | ![[Essence Burner#Essence Burner]]                             | 3     |
+## Clientless
+| Target                                                 | Value |
+| ------------------------------------------------------ | ----- |
+| ![[Ceremonial Goblet#Ceremonial Goblet]]               | 0     |
+| ![[Crested Golden Idol#Crested Golden Idol]]           | 0     |
+| ![[Golden Ceremonial Mask#Golden Ceremonial Mask]]     | 0     |
+| ![[Golden Grotesque#Golden Grotesque]]                 | 0     |
+| ![[Golden Prayer Idol#Golden Prayer Idol]]             | 0     |
+| ![[Golden Sacrificial Glyph#Golden Sacrificial Glyph]] | 0     |
 
+#
 ---
 ## Tags
 #DataTable 
