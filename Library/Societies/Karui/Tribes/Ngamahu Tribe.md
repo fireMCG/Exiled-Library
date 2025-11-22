@@ -1,5 +1,5 @@
 # Ngamahu Tribe
-**Chieftain:** [[Kaom]]
+**Chieftain:** [[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Dialogue/PoE2/K/Kaom/Kaom]]
 
 #
 ## Ancestor Equipment

@@ -1,5 +1,5 @@
 # Tasalio Tribe
-**Chieftain:** [[Rakiata]]
+**Chieftain:** [[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Dialogue/PoE2/R/Rakiata/Rakiata]]
 
 #
 ## Ancestor Equipment

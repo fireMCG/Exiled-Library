@@ -4,9 +4,17 @@
 [[Locus of Corruption]]
 
 #
+## Description
+\- None -
+## Social Groups
+[[Vaal Empire]]
+## Unique Items
+[[Paquate's Pact]]
+
+#
 ---
 ## Tags
-#AtzoatlArchitect
+#AtzoatlArchitect 
 #Character
-#Vaal
+#Vaal 
 #WiP 
