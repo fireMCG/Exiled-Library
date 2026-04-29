@@ -1,12 +1,16 @@
 # Tzamoto, Architect of Torments
+## Description
+\- None -
+## Atzoatl Rooms
 [[Torment Cells]]
 [[Torture Cages]]
-[[Sadist's Den]]
+[[Sadist's Den
+## Social Groups
+## Unique Items
+
 
 #
 ---
 ## Tags
-#AtzoatlArchitect
-#Character
-#Vaal
-#WiP 
+#Character/Tzamoto
+#Society/VaalEmpire/Architects

@@ -1,6 +1,9 @@
 # Ahn
+**Related:**
+[[Aul]]
 ## Description
 \- None -
+## Social Groups
 ## Unique Items
 [[Ahn's Citadel]]
 [[Ahn's Contempt]]
@@ -10,5 +13,4 @@
 #
 ---
 ## Tags
-#Character
-#WiP 
+#Character/Ahn 

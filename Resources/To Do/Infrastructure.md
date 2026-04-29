@@ -50,4 +50,4 @@ Should there be a generic file that points to character and boss variations?
 
 ---
 ## Tags
-#ToDo
+#Attributes/ToDo

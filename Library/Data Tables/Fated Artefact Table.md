@@ -63,8 +63,8 @@
 #
 ---
 ## Tags
-#Artefact 
-#DataTable
+#Attributes/DataTable
+#Category/Artefact 
+#Category/Prophecy 
+#League/Prophecy 
 #PoE1 
-#Prophecy 
-#WiP 

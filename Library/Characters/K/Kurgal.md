@@ -10,5 +10,4 @@
 #
 ---
 ## Tags
-#Character
-#WiP 
+#Character/Kurgal

@@ -1,5 +1,9 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Ngamahu"
+---
 # Ngamahu Tribe
-**Chieftain:** [[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Dialogue/PoE2/K/Kaom/Kaom]]
+**Chieftain:** [[Exiled-Library/Library/Characters/K/Kaom]]
 
 #
 ## Ancestor Equipment
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/God/Ngamahu 
+#Character/Kaom
+#Society/Karui/Tribe/Ngamahu 

@@ -10,4 +10,4 @@
 ---
 ## Tags
 #Character
-#WiP 
+#Society/VaalEmpire 

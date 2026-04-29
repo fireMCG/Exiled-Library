@@ -1,3 +1,7 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Tukohama"
+---
 # Tukohama Tribe
 **Chieftain:** [[Akoya]]
 
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/Akoya
+#Character/God/Tukohama 
+#Society/Karui/Tribe/Tukohama 

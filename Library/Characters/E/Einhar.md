@@ -2,12 +2,11 @@
 ## Description
 \- None -
 ## Social Groups
-[[Ezomytes]]
+[[Ezomyte]]
 ## Unique Items
 [[Einhar's Beastrite]]
 
 #
 ---
 ## Tags
-#Character
-#WiP 
+#Character/Einhar 

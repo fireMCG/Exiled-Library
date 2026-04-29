@@ -1,3 +1,8 @@
+---
+aliasses:
+  - "#Society/Karui"
+---
+
 # Karui
 
 
@@ -17,6 +22,4 @@
 #
 ---
 ## Tags
-#Karui 
-#Society
-#WiP 
+#Society/Karui 

@@ -28,9 +28,9 @@ Content
 
 ---
 ## Tags
-#ProjectGuidelines
+#Attributes/NoTag 
 
 Markdown files should always end with a "---" separator followed by a "## Tags" section.
 Markdown files should always have at least 1 tag.
-Use the #NoTag tag for files that do not seem to fit in any existing tag categories.
+Use the #Attributes/NoTag tag for files that do not seem to fit in any existing tag categories.
 Unlike in this example text, nothing should follow the "Tags" section and the section should only include tags.

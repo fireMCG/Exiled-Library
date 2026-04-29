@@ -1,20 +1,20 @@
 # Tacati, Architect of Toxins
+## Description
+\- None -
+## Atzoatl Rooms
 [[Poison Garden]]
 [[Cultivar Chamber]]
 [[Toxic Grove]]
 
-#
-## Description
-\- None -
 ## Social Groups
 [[Vaal Empire]]
 ## Unique Items
 [[Tacati's Ire]]
 
+
+
 #
 ---
 ## Tags
-#AtzoatlArchitect
-#Character
-#Vaal
-#WiP 
+#Character/Tacati
+#Society/VaalEmpire/Architects

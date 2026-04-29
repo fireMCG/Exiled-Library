@@ -10,7 +10,6 @@
 #
 ---
 ## Tags
-#DataTable
-#Necropolis
+#Attributes/DataTable
+#League/Necropolis
 #PoE1 
-#WiP 

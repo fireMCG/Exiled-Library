@@ -1,3 +1,7 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Valako"
+---
 # Valako Tribe
 **Chieftain:** [[Kiloava]]
 
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/God/Valako 
+#Character/Kiloava
+#Society/Karui/Tribe/Valako 

@@ -8,5 +8,4 @@
 #
 ---
 ## Tags
-#Character
-#WiP 
+#Character/God/Sione

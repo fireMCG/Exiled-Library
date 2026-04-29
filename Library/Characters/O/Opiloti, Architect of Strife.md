@@ -1,12 +1,16 @@
 # Opiloti, Architect of Strife
+## Description
+\- None -
+## Atzoatl Rooms
 [[Hall of Mettle]]
 [[Hall of Heroes]]
 [[Hall of Legends]]
+## Social Groups
+## Unique Items
+
 
 #
 ---
 ## Tags
-#AtzoatlArchitect
-#Character
-#Vaal
-#WiP 
+#Character/Opiloti
+#Society/VaalEmpire/Architects

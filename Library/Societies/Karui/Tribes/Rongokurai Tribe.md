@@ -1,3 +1,7 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Rongokurai"
+---
 # Rongokurai Tribe
 **Chieftain:** [[Kahuturoa]]
 
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/God/Rongokurai 
+#Character/Kahuturoa
+#Society/Karui/Tribe/Rongokurai 

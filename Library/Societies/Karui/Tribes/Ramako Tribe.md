@@ -1,3 +1,7 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Ramako"
+---
 # Ramako Tribe
 **Chieftain:** [[Ahuana]]
 
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/Ahuana
+#Character/God/Ramako
+#Society/Karui/Tribe/Ramako 

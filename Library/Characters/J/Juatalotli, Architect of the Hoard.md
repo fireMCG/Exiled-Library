@@ -1,12 +1,16 @@
 # Juatalotli, Architect of the Hoard
+## Description
+\- None -
+## Atzoatl Rooms
 [[Storage Room]]
 [[Warehouses]]
 [[Museum of Artefacts]]
+## Social Groups
+## Unique Items
+
 
 #
 ---
 ## Tags
-#AtzoatlArchitect
-#Character
-#Vaal
-#WiP 
+#Character/Juatalotli
+#Society/VaalEmpire/Architects

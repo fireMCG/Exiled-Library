@@ -11,5 +11,5 @@
 #
 ---
 ## Tags
-#Character
-#WiP 
+#Character/Amanamu
+#Society/Lightless 

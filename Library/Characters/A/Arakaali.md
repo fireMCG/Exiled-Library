@@ -9,6 +9,4 @@
 #
 ---
 ## Tags
-#Character
-#God
-#WiP 
+#Character/God/Arakaali

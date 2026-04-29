@@ -1,20 +1,18 @@
 # Paquate, Architect of Corruption
+## Description
+\- None -
+## Atzoatl Rooms
 [[Corruption Chamber]]
 [[Catalyst of Corruption]]
 [[Locus of Corruption]]
-
-#
-## Description
-\- None -
 ## Social Groups
 [[Vaal Empire]]
 ## Unique Items
 [[Paquate's Pact]]
 
+
 #
 ---
 ## Tags
-#AtzoatlArchitect 
-#Character
-#Vaal 
-#WiP 
+#Character/Paquate
+#Society/VaalEmpire/Architects

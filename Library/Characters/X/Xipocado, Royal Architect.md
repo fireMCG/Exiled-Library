@@ -1,12 +1,16 @@
 # Xipocado, Royal Architect
+## Description
+\- None -
+## Atzoatl Rooms
 [[Royal Meeting Room]]
 [[Hall of Lords]]
-[[Throne of Atziri]]
+[[Throne of Atziri
+## Social Groups
+## Unique Items
+
 
 #
 ---
 ## Tags
-#AtzoatlArchitect
-#Character
-#Vaal
-#WiP 
+#Character/Xipocado
+#Society/VaalEmpire/Architects

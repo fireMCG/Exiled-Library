@@ -1,3 +1,7 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Hinekora "
+---
 # Hinekora Tribe
 **Chieftain:** [[Tawhanaku]]
 
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/God/Hinekora 
+#Character/Tawhanaku
+#Society/Karui/Tribe/Hinekora 

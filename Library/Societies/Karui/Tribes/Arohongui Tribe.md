@@ -1,3 +1,7 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Arohongui"
+---
 # Arohongui Tribe
 **Chieftain:** [[Ikiaho]]
 
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/God/Arohongui
+#Character/Ikiaho
+#Society/Karui/Tribe/Arohongui 

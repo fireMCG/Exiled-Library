@@ -1,12 +1,16 @@
 # Uromoti, Architect of Expansion
+## Description
+\- None -
+## Atzoatl Rooms
 [[Surveyor's Study]]
 [[Office of Cartography]]
-[[Atlas of Worlds]]
+[[Atlas of Worlds
+## Social Groups
+## Unique Items
+
 
 #
 ---
 ## Tags
-#AtzoatlArchitect
 #Character
-#Vaal
-#WiP 
+#Society/VaalEmpire/Architects

@@ -1,5 +1,9 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Tasalio"
+---
 # Tasalio Tribe
-**Chieftain:** [[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Dialogue/PoE2/R/Rakiata/Rakiata]]
+**Chieftain:** [[Exiled-Library/Library/Characters/R/Rakiata]]
 
 #
 ## Ancestor Equipment
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/God/Tasalio 
+#Character/Rakiata
+#Society/Karui/Tribe/Tasalio 

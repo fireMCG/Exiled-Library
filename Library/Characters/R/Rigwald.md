@@ -2,12 +2,11 @@
 ## Description
 \- None -
 ## Social Groups
-[[Ezomytes]]
+[[Ezomyte]]
 ## Unique Items
 [[Rigwald's Ferocity]]
 
 #
 ---
 ## Tags
-#Character
-#WiP 
+#Character/Rigwald

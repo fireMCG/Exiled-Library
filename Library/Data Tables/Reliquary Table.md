@@ -17,6 +17,5 @@
 #
 ---
 ## Tags
-#DataTable
-#Reliquary 
-#WiP 
+#Attributes/DataTable
+#Category/Reliquary 

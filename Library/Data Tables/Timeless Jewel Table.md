@@ -37,8 +37,11 @@
 #
 ---
 ## Tags
-#DataTable 
-#Legion
+#Attributes/DataTable 
+#Character/Medved 
+#Character/Olroth 
+#Character/Vorana
+#League/Legion
 #PoE1 
 #PoE2 
-#WiP 
+#Society/VaalEmpire 

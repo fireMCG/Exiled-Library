@@ -9,7 +9,7 @@
 #
 ---
 ## Tags
-#Area 
-#DataTable 
-#Map
+#Attributes/DataTable 
+#Category/Area 
+#Category/Map
 #PoE2

@@ -1,3 +1,7 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Kitava"
+---
 # Kitava Tribe
 **Chieftain:** [[Utula]]
 
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/God/Kitava
+#Character/Utula
+#Society/Karui/Tribe/Kitava 

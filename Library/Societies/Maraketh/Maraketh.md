@@ -1,13 +1,17 @@
+---
+aliases:
+  - "#Society/Maraketh"
+---
 # Maraketh
 
 
 #
 ## Akharas
+[[Ardura Akhara]]
+## Characters
 
 
 #
 ---
 ## Tags
-#Maraketh
-#Society
-#WiP 
+#Society/Maraketh 

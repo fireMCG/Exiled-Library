@@ -1,3 +1,7 @@
+---
+aliases:
+  - "#Society/Karui/Tribe/Tawhoa"
+---
 # Tawhoa Tribe
 **Chieftain:** [[Maata]]
 
@@ -11,6 +15,6 @@
 #
 ---
 ## Tags
-#Karui 
-#SubSociety
-#WiP 
+#Character/God/Tawhoa 
+#Character/Maata
+#Society/Karui/Tribe/Tawhoa 
